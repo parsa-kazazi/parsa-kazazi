@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parsa-kazazi
-- 👀 I’m interested in computer programming and Linux os
+- 👀 I’m interested in computer programming and Cyber Security
 - 🌱 I’m currently learning python programming language and Linux operating system
-- 💞️ I’m looking to collaborate on Linux operating system and Tor project
+- 💞️ I’m looking to collaborate on Linux operating system
 - 📫 How to reach me : parsa-kazazi@protonmail.com
 
 <!---
