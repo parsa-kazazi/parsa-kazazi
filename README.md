@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parsa-kazazi
-- 👀 I’m interested in computer programming and Cyber Security
+- 👀 I’m interested in computer programming and cyber security
 - 🌱 I’m currently learning python programming language and Linux operating system
 - 💞️ I’m looking to collaborate on Linux operating system
 - 📫 How to reach me : parsa-kazazi@protonmail.com
