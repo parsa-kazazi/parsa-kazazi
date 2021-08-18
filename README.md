@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Parsa Kazazi    😃
+- 👋 Hi, I’m Parsa Kazazi 😃
 - 👀 I’m interested in computer programming and cyber security
 - 🌱 I’m currently learning python programming language and Linux operating system
 - 💞️ I’m looking to collaborate on Linux operating system
